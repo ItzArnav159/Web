@@ -31,3 +31,9 @@ body {
   border-bottom-left-radius:10px;
   border-bottom-right-radius:10px;
 }
+table{
+  max-width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
